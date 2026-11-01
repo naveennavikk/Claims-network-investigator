@@ -1,0 +1,15 @@
+.rule-list{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+.rule-list>div{display:flex;gap:8px;align-items:flex-start;background:#f8fafc;padding:9px;border-radius:6px}
+.rule-list b{color:#087f8c;white-space:nowrap;font-size:10px}
+.rule-list span{font-size:10px;color:#536176;line-height:1.35}
+.method-note{margin-top:11px;padding-top:10px}
+@media(max-width:650px){
+  .table-wrap{overflow-x:hidden}
+  table{table-layout:fixed;width:100%;white-space:normal}
+  th,td{padding:9px 5px}
+  th:nth-child(2),td:nth-child(2),th:nth-child(3),td:nth-child(3),th:nth-child(4),td:nth-child(4){display:none}
+  th:first-child,td:first-child{width:45%}
+  th:nth-child(5),td:nth-child(5){width:25%}
+  th:nth-child(6),td:nth-child(6){width:30%}
+  .id{white-space:nowrap;font-size:10px}
+}

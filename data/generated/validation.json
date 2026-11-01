@@ -1,0 +1,24 @@
+{
+  "valid": true,
+  "errors": [],
+  "warnings": [
+    "claim CLM-2026-004996: invalid policy POL-DOES-NOT-EXIST",
+    "claim CLM-2026-004998: payments exceed approved amount",
+    "duplicate invoice numbers (labelled exception): 1"
+  ],
+  "counts": {
+    "claimants": 2000,
+    "policies": 2200,
+    "claims": 5000,
+    "incidents": 5000,
+    "providers": 500,
+    "invoices": 5000,
+    "payments": 3255,
+    "claim_providers": 5000,
+    "relationship_edges": 8000,
+    "fraud_indicators": 206,
+    "investigations": 203,
+    "claim_state_events": 5000,
+    "payment_state_events": 3255
+  }
+}

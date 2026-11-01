@@ -1,0 +1,31 @@
+subject_type,subject_id,label,reason,expected_decision
+edge,EDGE-2026-000030,planted_relationship,Controlled shared contact cluster,investigate
+edge,EDGE-2026-000059,planted_relationship,Controlled shared contact cluster,investigate
+edge,EDGE-2026-000088,planted_relationship,Controlled shared contact cluster,investigate
+edge,EDGE-2026-000117,planted_relationship,Controlled shared contact cluster,investigate
+edge,EDGE-2026-000175,planted_relationship,Controlled shared contact cluster,investigate
+edge,EDGE-2026-000204,planted_relationship,Controlled shared contact cluster,investigate
+edge,EDGE-2026-000233,planted_relationship,Controlled shared contact cluster,investigate
+edge,EDGE-2026-000262,planted_relationship,Controlled shared contact cluster,investigate
+edge,EDGE-2026-000320,planted_relationship,Controlled shared contact cluster,investigate
+edge,EDGE-2026-000349,planted_relationship,Controlled shared contact cluster,investigate
+edge,EDGE-2026-000378,planted_relationship,Controlled shared contact cluster,investigate
+edge,EDGE-2026-000407,planted_relationship,Controlled shared contact cluster,investigate
+edge,EDGE-2026-000465,planted_relationship,Controlled shared contact cluster,investigate
+claimant,CUS-2026-000001,unrepresented_relationship,Shared synthetic contact intentionally omitted from edge table,investigate
+claim,CLM-2026-000001,planted_network,Claim belongs to a controlled shared-contact cluster,investigate
+claim,CLM-2026-000002,planted_network,Claim belongs to a controlled shared-contact cluster,investigate
+claim,CLM-2026-000003,planted_network,Claim belongs to a controlled shared-contact cluster,investigate
+claim,CLM-2026-000004,planted_network,Claim belongs to a controlled shared-contact cluster,investigate
+claim,CLM-2026-000005,planted_network,Claim belongs to a controlled shared-contact cluster,investigate
+claim,CLM-2026-000006,planted_network,Claim belongs to a controlled shared-contact cluster,investigate
+claim,CLM-2026-000015,planted_network,Claim belongs to a controlled shared-contact cluster,investigate
+claim,CLM-2026-000038,planted_network,Claim belongs to a controlled shared-contact cluster,investigate
+claim,CLM-2026-000072,planted_network,Claim belongs to a controlled shared-contact cluster,investigate
+claim,CLM-2026-000092,planted_network,Claim belongs to a controlled shared-contact cluster,investigate
+claim,CLM-2026-000111,planted_network,Claim belongs to a controlled shared-contact cluster,investigate
+incident,INC-2026-000002,benign_repeat_narrative,Benign repeat narrative included to test false positives,review_context
+claim,CLM-2026-000296,invalid_policy_reference,Claim references nonexistent policy; exception row retained for validation coverage,exception
+claim,CLM-2026-000298,payment_exceeds_approved,Payment amount exceeds source approved amount,exception
+claim,CLM-2026-000297,duplicate_invoice_across_claimants,Invoice ID deliberately reused across unrelated claimant claims,exception
+claim,CLM-2026-000300,unusual_reporting_delay,Incident reported 90 days after occurrence,investigate

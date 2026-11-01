@@ -1,0 +1,36 @@
+{
+  "generated_at": "2026-10-22T00:00:00Z",
+  "seed": 20261022,
+  "scale": "starter",
+  "synthetic_only": true,
+  "counts": {
+    "claimants": 120,
+    "policies": 132,
+    "claims": 300,
+    "incidents": 300,
+    "providers": 35,
+    "invoices": 300,
+    "payments": 300,
+    "claim_providers": 300,
+    "relationship_edges": 480,
+    "fraud_indicators": 4,
+    "investigations": 1,
+    "claim_state_events": 300,
+    "payment_state_events": 300
+  },
+  "sha256": {
+    "claimants.csv": "71c77990b2cc11ec1cecbeb54607fe6ce65bf52cde28b0090340f97a2893c651",
+    "policies.csv": "183e0694e9993b29d7913de1b826fc51fb90911cb771c82f4141edfab23121bd",
+    "claims.csv": "f3dd8ce23424380a17f3fd5244841be676586537f8cfae235ff7101e2cf9182d",
+    "incidents.csv": "434211dbc742b6b68650ccc8d25d520e1f979267f8238a4c4d0ca2298c45a563",
+    "providers.csv": "fec4cdce0ca2c476f85be7c599d85da1f443546c566b23e7e765c7631f117615",
+    "invoices.csv": "9f625a69eefc65412fdd583b6be9ea972756d7636f823edd07b45b1473c50c6c",
+    "payments.csv": "5550faed4df0592bad0b5a81e5aa9f423a32cdc7bba97710dfcc6d2cdc8a1e4e",
+    "claim_providers.csv": "6ffb9d52c04cdf7a9c8653b0f20a28634407c3ff4c08b9d4cc33897ceccba1e1",
+    "relationship_edges.csv": "4dadb86d036e1da3b94d4f28e7765026bace07652ee574e8dca9cf17ec32fbba",
+    "fraud_indicators.csv": "095805a274c136acc93e0041f9a535320c22a175c37b3a44f3bfe93a0bb461b2",
+    "investigations.csv": "0e11551e80357aac4652bb72126f117088433882d9dcbc6796bb802e533a2b9d",
+    "claim_state_events.csv": "9035b5077d6e08e6fc0724d4f1313913ad99f6c338efc6e65552db80bb0cdccf",
+    "payment_state_events.csv": "fe4816f9e157154fc9c9975b18922043878bfb0383a491b4f1e64a6bfd79a2fa"
+  }
+}

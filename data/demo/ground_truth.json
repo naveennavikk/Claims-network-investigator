@@ -1,0 +1,212 @@
+[
+  {
+    "subject_type": "edge",
+    "subject_id": "EDGE-2026-000030",
+    "label": "planted_relationship",
+    "reason": "Controlled shared contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "edge",
+    "subject_id": "EDGE-2026-000059",
+    "label": "planted_relationship",
+    "reason": "Controlled shared contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "edge",
+    "subject_id": "EDGE-2026-000088",
+    "label": "planted_relationship",
+    "reason": "Controlled shared contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "edge",
+    "subject_id": "EDGE-2026-000117",
+    "label": "planted_relationship",
+    "reason": "Controlled shared contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "edge",
+    "subject_id": "EDGE-2026-000175",
+    "label": "planted_relationship",
+    "reason": "Controlled shared contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "edge",
+    "subject_id": "EDGE-2026-000204",
+    "label": "planted_relationship",
+    "reason": "Controlled shared contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "edge",
+    "subject_id": "EDGE-2026-000233",
+    "label": "planted_relationship",
+    "reason": "Controlled shared contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "edge",
+    "subject_id": "EDGE-2026-000262",
+    "label": "planted_relationship",
+    "reason": "Controlled shared contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "edge",
+    "subject_id": "EDGE-2026-000320",
+    "label": "planted_relationship",
+    "reason": "Controlled shared contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "edge",
+    "subject_id": "EDGE-2026-000349",
+    "label": "planted_relationship",
+    "reason": "Controlled shared contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "edge",
+    "subject_id": "EDGE-2026-000378",
+    "label": "planted_relationship",
+    "reason": "Controlled shared contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "edge",
+    "subject_id": "EDGE-2026-000407",
+    "label": "planted_relationship",
+    "reason": "Controlled shared contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "edge",
+    "subject_id": "EDGE-2026-000465",
+    "label": "planted_relationship",
+    "reason": "Controlled shared contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claimant",
+    "subject_id": "CUS-2026-000001",
+    "label": "unrepresented_relationship",
+    "reason": "Shared synthetic contact intentionally omitted from edge table",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000001",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000002",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000003",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000004",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000005",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000006",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000015",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000038",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000072",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000092",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000111",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "incident",
+    "subject_id": "INC-2026-000002",
+    "label": "benign_repeat_narrative",
+    "reason": "Benign repeat narrative included to test false positives",
+    "expected_decision": "review_context"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000296",
+    "label": "invalid_policy_reference",
+    "reason": "Claim references nonexistent policy; exception row retained for validation coverage",
+    "expected_decision": "exception"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000298",
+    "label": "payment_exceeds_approved",
+    "reason": "Payment amount exceeds source approved amount",
+    "expected_decision": "exception"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000297",
+    "label": "duplicate_invoice_across_claimants",
+    "reason": "Invoice ID deliberately reused across unrelated claimant claims",
+    "expected_decision": "exception"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000300",
+    "label": "unusual_reporting_delay",
+    "reason": "Incident reported 90 days after occurrence",
+    "expected_decision": "investigate"
+  }
+]

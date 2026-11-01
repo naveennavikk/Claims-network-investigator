@@ -1,0 +1,7 @@
+#!/usr/bin/env node
+const fs=require('node:fs');const path=require('node:path');const {generate,SEED}=require('./generator');const {load,validate,detect,evaluate}=require('./analysis');
+const args=process.argv.slice(2),cmd=args[0],val=k=>{const i=args.indexOf(k);return i<0?undefined:args[i+1];};const dir=val('--dir')||'data/generated';
+if(cmd==='generate'){const scale=val('--scale')||'full';const seed=Number(val('--seed')||SEED);const out=val('--out')||dir;const run=generate({outDir:out,scale,seed});console.log(JSON.stringify({output:out,seed,counts:Object.fromEntries(Object.entries(run.tables).map(([k,v])=>[k,v.length]))},null,2));}
+else if(cmd==='validate'){const report=validate(load(dir));fs.writeFileSync(path.join(dir,'validation.json'),JSON.stringify(report,null,2));console.log(JSON.stringify(report,null,2));if(!report.valid)process.exitCode=1;}
+else if(cmd==='evaluate'){const t=load(dir),ranked=detect(t),truth=JSON.parse(fs.readFileSync(path.join(dir,'ground_truth.json'),'utf8')),metrics=evaluate(ranked,truth);require('./generator').writeCsv(path.join(dir,'ranked_claims.csv'),ranked);fs.writeFileSync(path.join(dir,'metrics.json'),JSON.stringify(metrics,null,2));console.log(JSON.stringify(metrics,null,2));}
+else{console.log('Usage: node src/cli.js generate --scale starter|full [--seed N] [--out DIR]\n       node src/cli.js validate [--dir DIR]\n       node src/cli.js evaluate [--dir DIR]');process.exitCode=2;}

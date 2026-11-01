@@ -1,0 +1,5 @@
+indicator_id,claim_id,indicator_type,severity,evidence,created_at
+IND-2026-000001,CLM-2026-000296,missing_policy_reference,high,policy_id references a nonexistent policy,2026-10-22
+IND-2026-000002,CLM-2026-000298,payment_over_approval,high,settled payment exceeds approved amount,2026-10-22
+IND-2026-000003,CLM-2026-000297,duplicate_invoice,high,invoice identifier reused across claims,2026-10-22
+IND-2026-000004,CLM-2026-000001,shared_contact_cluster,medium,shared synthetic phone and email across distinct claimants,2026-10-22

@@ -1,0 +1,2 @@
+investigation_id,claim_id,assigned_role,status,priority,opened_at,closed_at,outcome
+INVG-2026-000001,CLM-2026-000001,risk_compliance_reviewer,open,high,2026-10-22,,

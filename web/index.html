@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#101b2d"><title>YottaFlex | Claims Investigator</title>
+  <link rel="stylesheet" href="/styles.css">
+  <link rel="stylesheet" href="/submission.css">
+</head>
+<body>
+  <aside class="sidebar">
+    <div class="brand"><div class="brand-mark">Y</div><div><b>YottaFlex</b><small>CLAIMS INTELLIGENCE</small></div></div>
+    <div class="nav-label">WORKSPACE</div><div class="nav-item active"><span>◈</span> Network overview</div><div class="nav-item"><span>▤</span> Claim investigations</div>
+    <div class="side-bottom"><div class="avatar">RA</div><div><b>Risk Analyst</b><small>Operations workspace</small></div><span class="dots">···</span></div>
+  </aside>
+  <main>
+    <header><div><div class="crumb">Claims / <b>Network overview</b></div><h1>Claims network investigator</h1><p>Review connected activity, understand the evidence, and prioritize cases for investigation.</p></div><div class="header-right"><span class="live"><i></i> Synthetic data</span><button id="refresh" class="refresh">↻ &nbsp;Refresh</button></div></header>
+    <section class="kpis" id="kpis"><div class="skeleton"></div><div class="skeleton"></div><div class="skeleton"></div><div class="skeleton"></div></section>
+    <section class="content-grid">
+      <div class="panel main-panel"><div class="panel-head"><div><h2>Priority claims</h2><p>Ranked by rule-based evidence. Scores support review, not a fraud determination.</p></div><span class="pill" id="showing">Loading</span></div>
+        <div class="toolbar"><label class="search">⌕ <input id="search" placeholder="Search claim, claimant, incident…"></label><select id="filter"><option value="all">All decisions</option><option value="investigate">Investigate</option><option value="review">Review</option><option value="no_alert">No alert</option></select></div>
+        <div class="table-wrap"><table><thead><tr><th>CLAIM</th><th>CLAIMANT</th><th>INCIDENT</th><th>AMOUNT</th><th>SCORE</th><th>DECISION</th></tr></thead><tbody id="rows"><tr><td colspan="6" class="loading">Loading ranked claims…</td></tr></tbody></table></div>
+      </div>
+      <div class="right-col">
+        <div class="panel"><div class="panel-head compact"><div><h2>Evaluation snapshot</h2><p>Compared with separate synthetic labels</p></div><span class="status-dot"></span></div><div id="metrics" class="metrics-loading">Loading metrics…</div><div class="note">Metrics describe this generated benchmark. They are not an estimate of real-world fraud detection performance.</div></div>
+        <div class="panel exceptions"><div class="panel-head compact"><div><h2>Validation exceptions</h2><p>Expected negative cases kept traceable</p></div><span class="count-badge" id="exception-count">—</span></div><div id="warnings" class="warning-list">Checking records…</div></div>
+        <div class="panel data-card"><div class="panel-head compact"><div><h2>Dataset</h2><p>Generated from fixed seed</p></div></div><div id="dataset" class="dataset">Loading…</div></div>
+        <div class="panel method-card"><div class="panel-head compact"><div><h2>How prioritization works</h2><p>Transparent rules, not a fraud verdict</p></div></div>
+          <div class="rule-list">
+            <div><b>+45</b><span>Policy reference is missing</span></div><div><b>+45</b><span>Payment total exceeds approval</span></div><div><b>+35</b><span>Invoice number appears on multiple claims</span></div><div><b>+25</b><span>Incident reported over 30 days later</span></div><div><b>+20</b><span>Contact pair shared across claimants</span></div><div><b>Up to +10</b><span>Repeat claims (weak evidence)</span></div>
+          </div><p class="note method-note">Scores are capped at 100. 20+ is Investigate; 10–19 is Review. Shared addresses and repeat narratives do not add score. Each case needs human review.</p>
+        </div>
+      </div>
+    </section>
+  </main>
+  <div id="overlay" class="overlay"></div><aside id="detail" class="detail-drawer" aria-label="Claim evidence"></aside>
+  <div class="footer">Synthetic records only <span>•</span> Shared addresses and repeat claims are not proof of wrongdoing</div>
+  <script src="/app.js"></script>
+</body>
+</html>

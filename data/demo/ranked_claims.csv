@@ -1,0 +1,301 @@
+claim_id,claimant_id,score,decision,evidence
+CLM-2026-000001,CUS-2026-000001,63,investigate,"Invoice identifier is reused across claims,Contact pair appears on 2 claimants; corroborate before action,Claimant has 5 claims; repeat claims alone are not proof"
+CLM-2026-000298,CUS-2026-000117,49,investigate,"Payments total $8829.00 exceeds approved $8579.00,Claimant has 3 claims; repeat claims alone are not proof"
+CLM-2026-000296,CUS-2026-000025,47,investigate,"Policy reference has no matching policy record,Claimant has 2 claims; repeat claims alone are not proof"
+CLM-2026-000297,CUS-2026-000037,37,investigate,"Invoice identifier is reused across claims,Claimant has 2 claims; repeat claims alone are not proof"
+CLM-2026-000002,CUS-2026-000002,30,investigate,"Contact pair appears on 2 claimants; corroborate before action,Claimant has 6 claims; repeat claims alone are not proof"
+CLM-2026-000004,CUS-2026-000002,30,investigate,"Contact pair appears on 2 claimants; corroborate before action,Claimant has 6 claims; repeat claims alone are not proof"
+CLM-2026-000006,CUS-2026-000002,30,investigate,"Contact pair appears on 2 claimants; corroborate before action,Claimant has 6 claims; repeat claims alone are not proof"
+CLM-2026-000015,CUS-2026-000002,30,investigate,"Contact pair appears on 2 claimants; corroborate before action,Claimant has 6 claims; repeat claims alone are not proof"
+CLM-2026-000038,CUS-2026-000002,30,investigate,"Contact pair appears on 2 claimants; corroborate before action,Claimant has 6 claims; repeat claims alone are not proof"
+CLM-2026-000111,CUS-2026-000002,30,investigate,"Contact pair appears on 2 claimants; corroborate before action,Claimant has 6 claims; repeat claims alone are not proof"
+CLM-2026-000003,CUS-2026-000001,28,investigate,"Contact pair appears on 2 claimants; corroborate before action,Claimant has 5 claims; repeat claims alone are not proof"
+CLM-2026-000005,CUS-2026-000001,28,investigate,"Contact pair appears on 2 claimants; corroborate before action,Claimant has 5 claims; repeat claims alone are not proof"
+CLM-2026-000072,CUS-2026-000001,28,investigate,"Contact pair appears on 2 claimants; corroborate before action,Claimant has 5 claims; repeat claims alone are not proof"
+CLM-2026-000092,CUS-2026-000001,28,investigate,"Contact pair appears on 2 claimants; corroborate before action,Claimant has 5 claims; repeat claims alone are not proof"
+CLM-2026-000300,CUS-2026-000085,27,investigate,"Incident was reported more than 30 days after occurrence,Claimant has 2 claims; repeat claims alone are not proof"
+CLM-2026-000010,CUS-2026-000026,10,review,Claimant has 6 claims; repeat claims alone are not proof
+CLM-2026-000017,CUS-2026-000027,10,review,Claimant has 6 claims; repeat claims alone are not proof
+CLM-2026-000028,CUS-2026-000026,10,review,Claimant has 6 claims; repeat claims alone are not proof
+CLM-2026-000139,CUS-2026-000027,10,review,Claimant has 6 claims; repeat claims alone are not proof
+CLM-2026-000179,CUS-2026-000027,10,review,Claimant has 6 claims; repeat claims alone are not proof
+CLM-2026-000188,CUS-2026-000026,10,review,Claimant has 6 claims; repeat claims alone are not proof
+CLM-2026-000189,CUS-2026-000027,10,review,Claimant has 6 claims; repeat claims alone are not proof
+CLM-2026-000193,CUS-2026-000026,10,review,Claimant has 6 claims; repeat claims alone are not proof
+CLM-2026-000243,CUS-2026-000026,10,review,Claimant has 6 claims; repeat claims alone are not proof
+CLM-2026-000263,CUS-2026-000026,10,review,Claimant has 6 claims; repeat claims alone are not proof
+CLM-2026-000267,CUS-2026-000027,10,review,Claimant has 6 claims; repeat claims alone are not proof
+CLM-2026-000279,CUS-2026-000027,10,review,Claimant has 6 claims; repeat claims alone are not proof
+CLM-2026-000007,CUS-2026-000074,8,no_alert,Claimant has 5 claims; repeat claims alone are not proof
+CLM-2026-000008,CUS-2026-000047,8,no_alert,Claimant has 5 claims; repeat claims alone are not proof
+CLM-2026-000016,CUS-2026-000009,8,no_alert,Claimant has 5 claims; repeat claims alone are not proof
+CLM-2026-000019,CUS-2026-000039,8,no_alert,Claimant has 5 claims; repeat claims alone are not proof
+CLM-2026-000023,CUS-2026-000082,8,no_alert,Claimant has 5 claims; repeat claims alone are not proof
+CLM-2026-000025,CUS-2026-000009,8,no_alert,Claimant has 5 claims; repeat claims alone are not proof
+CLM-2026-000029,CUS-2026-000034,8,no_alert,Claimant has 5 claims; repeat claims alone are not proof
+CLM-2026-000031,CUS-2026-000096,8,no_alert,Claimant has 5 claims; repeat claims alone are not proof
+CLM-2026-000032,CUS-2026-000058,8,no_alert,Claimant has 5 claims; repeat claims alone are not proof
+CLM-2026-000033,CUS-2026-000082,8,no_alert,Claimant has 5 claims; repeat claims alone are not proof
+CLM-2026-000039,CUS-2026-000096,8,no_alert,Claimant has 5 claims; repeat claims alone are not proof
+CLM-2026-000041,CUS-2026-000034,8,no_alert,Claimant has 5 claims; repeat claims alone are not proof
+CLM-2026-000042,CUS-2026-000008,8,no_alert,Claimant has 5 claims; repeat claims alone are not proof
+CLM-2026-000048,CUS-2026-000097,8,no_alert,Claimant has 5 claims; repeat claims alone are not proof
+CLM-2026-000049,CUS-2026-000047,8,no_alert,Claimant has 5 claims; repeat claims alone are not proof
+CLM-2026-000053,CUS-2026-000096,8,no_alert,Claimant has 5 claims; repeat claims alone are not proof
+CLM-2026-000060,CUS-2026-000058,8,no_alert,Claimant has 5 claims; repeat claims alone are not proof
+CLM-2026-000065,CUS-2026-000039,8,no_alert,Claimant has 5 claims; repeat claims alone are not proof
+CLM-2026-000071,CUS-2026-000009,8,no_alert,Claimant has 5 claims; repeat claims alone are not proof
+CLM-2026-000079,CUS-2026-000091,8,no_alert,Claimant has 5 claims; repeat claims alone are not proof
+CLM-2026-000083,CUS-2026-000091,8,no_alert,Claimant has 5 claims; repeat claims alone are not proof
+CLM-2026-000084,CUS-2026-000091,8,no_alert,Claimant has 5 claims; repeat claims alone are not proof
+CLM-2026-000098,CUS-2026-000034,8,no_alert,Claimant has 5 claims; repeat claims alone are not proof
+CLM-2026-000099,CUS-2026-000039,8,no_alert,Claimant has 5 claims; repeat claims alone are not proof
+CLM-2026-000100,CUS-2026-000039,8,no_alert,Claimant has 5 claims; repeat claims alone are not proof
+CLM-2026-000106,CUS-2026-000047,8,no_alert,Claimant has 5 claims; repeat claims alone are not proof
+CLM-2026-000108,CUS-2026-000082,8,no_alert,Claimant has 5 claims; repeat claims alone are not proof
+CLM-2026-000109,CUS-2026-000008,8,no_alert,Claimant has 5 claims; repeat claims alone are not proof
+CLM-2026-000110,CUS-2026-000008,8,no_alert,Claimant has 5 claims; repeat claims alone are not proof
+CLM-2026-000112,CUS-2026-000097,8,no_alert,Claimant has 5 claims; repeat claims alone are not proof
+CLM-2026-000114,CUS-2026-000047,8,no_alert,Claimant has 5 claims; repeat claims alone are not proof
+CLM-2026-000115,CUS-2026-000039,8,no_alert,Claimant has 5 claims; repeat claims alone are not proof
+CLM-2026-000116,CUS-2026-000034,8,no_alert,Claimant has 5 claims; repeat claims alone are not proof
+CLM-2026-000118,CUS-2026-000096,8,no_alert,Claimant has 5 claims; repeat claims alone are not proof
+CLM-2026-000119,CUS-2026-000091,8,no_alert,Claimant has 5 claims; repeat claims alone are not proof
+CLM-2026-000126,CUS-2026-000074,8,no_alert,Claimant has 5 claims; repeat claims alone are not proof
+CLM-2026-000128,CUS-2026-000074,8,no_alert,Claimant has 5 claims; repeat claims alone are not proof
+CLM-2026-000140,CUS-2026-000058,8,no_alert,Claimant has 5 claims; repeat claims alone are not proof
+CLM-2026-000152,CUS-2026-000058,8,no_alert,Claimant has 5 claims; repeat claims alone are not proof
+CLM-2026-000164,CUS-2026-000082,8,no_alert,Claimant has 5 claims; repeat claims alone are not proof
+CLM-2026-000172,CUS-2026-000008,8,no_alert,Claimant has 5 claims; repeat claims alone are not proof
+CLM-2026-000178,CUS-2026-000034,8,no_alert,Claimant has 5 claims; repeat claims alone are not proof
+CLM-2026-000197,CUS-2026-000047,8,no_alert,Claimant has 5 claims; repeat claims alone are not proof
+CLM-2026-000207,CUS-2026-000008,8,no_alert,Claimant has 5 claims; repeat claims alone are not proof
+CLM-2026-000218,CUS-2026-000097,8,no_alert,Claimant has 5 claims; repeat claims alone are not proof
+CLM-2026-000225,CUS-2026-000009,8,no_alert,Claimant has 5 claims; repeat claims alone are not proof
+CLM-2026-000233,CUS-2026-000097,8,no_alert,Claimant has 5 claims; repeat claims alone are not proof
+CLM-2026-000235,CUS-2026-000074,8,no_alert,Claimant has 5 claims; repeat claims alone are not proof
+CLM-2026-000244,CUS-2026-000091,8,no_alert,Claimant has 5 claims; repeat claims alone are not proof
+CLM-2026-000246,CUS-2026-000096,8,no_alert,Claimant has 5 claims; repeat claims alone are not proof
+CLM-2026-000257,CUS-2026-000097,8,no_alert,Claimant has 5 claims; repeat claims alone are not proof
+CLM-2026-000258,CUS-2026-000058,8,no_alert,Claimant has 5 claims; repeat claims alone are not proof
+CLM-2026-000281,CUS-2026-000009,8,no_alert,Claimant has 5 claims; repeat claims alone are not proof
+CLM-2026-000292,CUS-2026-000074,8,no_alert,Claimant has 5 claims; repeat claims alone are not proof
+CLM-2026-000294,CUS-2026-000082,8,no_alert,Claimant has 5 claims; repeat claims alone are not proof
+CLM-2026-000018,CUS-2026-000019,6,no_alert,Claimant has 4 claims; repeat claims alone are not proof
+CLM-2026-000020,CUS-2026-000087,6,no_alert,Claimant has 4 claims; repeat claims alone are not proof
+CLM-2026-000026,CUS-2026-000036,6,no_alert,Claimant has 4 claims; repeat claims alone are not proof
+CLM-2026-000058,CUS-2026-000087,6,no_alert,Claimant has 4 claims; repeat claims alone are not proof
+CLM-2026-000069,CUS-2026-000095,6,no_alert,Claimant has 4 claims; repeat claims alone are not proof
+CLM-2026-000081,CUS-2026-000056,6,no_alert,Claimant has 4 claims; repeat claims alone are not proof
+CLM-2026-000091,CUS-2026-000051,6,no_alert,Claimant has 4 claims; repeat claims alone are not proof
+CLM-2026-000097,CUS-2026-000095,6,no_alert,Claimant has 4 claims; repeat claims alone are not proof
+CLM-2026-000101,CUS-2026-000056,6,no_alert,Claimant has 4 claims; repeat claims alone are not proof
+CLM-2026-000120,CUS-2026-000106,6,no_alert,Claimant has 4 claims; repeat claims alone are not proof
+CLM-2026-000121,CUS-2026-000056,6,no_alert,Claimant has 4 claims; repeat claims alone are not proof
+CLM-2026-000123,CUS-2026-000036,6,no_alert,Claimant has 4 claims; repeat claims alone are not proof
+CLM-2026-000125,CUS-2026-000115,6,no_alert,Claimant has 4 claims; repeat claims alone are not proof
+CLM-2026-000129,CUS-2026-000106,6,no_alert,Claimant has 4 claims; repeat claims alone are not proof
+CLM-2026-000135,CUS-2026-000019,6,no_alert,Claimant has 4 claims; repeat claims alone are not proof
+CLM-2026-000144,CUS-2026-000084,6,no_alert,Claimant has 4 claims; repeat claims alone are not proof
+CLM-2026-000145,CUS-2026-000073,6,no_alert,Claimant has 4 claims; repeat claims alone are not proof
+CLM-2026-000154,CUS-2026-000040,6,no_alert,Claimant has 4 claims; repeat claims alone are not proof
+CLM-2026-000157,CUS-2026-000084,6,no_alert,Claimant has 4 claims; repeat claims alone are not proof
+CLM-2026-000160,CUS-2026-000095,6,no_alert,Claimant has 4 claims; repeat claims alone are not proof
+CLM-2026-000161,CUS-2026-000051,6,no_alert,Claimant has 4 claims; repeat claims alone are not proof
+CLM-2026-000165,CUS-2026-000115,6,no_alert,Claimant has 4 claims; repeat claims alone are not proof
+CLM-2026-000171,CUS-2026-000051,6,no_alert,Claimant has 4 claims; repeat claims alone are not proof
+CLM-2026-000176,CUS-2026-000073,6,no_alert,Claimant has 4 claims; repeat claims alone are not proof
+CLM-2026-000177,CUS-2026-000036,6,no_alert,Claimant has 4 claims; repeat claims alone are not proof
+CLM-2026-000181,CUS-2026-000056,6,no_alert,Claimant has 4 claims; repeat claims alone are not proof
+CLM-2026-000182,CUS-2026-000087,6,no_alert,Claimant has 4 claims; repeat claims alone are not proof
+CLM-2026-000183,CUS-2026-000069,6,no_alert,Claimant has 4 claims; repeat claims alone are not proof
+CLM-2026-000185,CUS-2026-000019,6,no_alert,Claimant has 4 claims; repeat claims alone are not proof
+CLM-2026-000203,CUS-2026-000115,6,no_alert,Claimant has 4 claims; repeat claims alone are not proof
+CLM-2026-000208,CUS-2026-000040,6,no_alert,Claimant has 4 claims; repeat claims alone are not proof
+CLM-2026-000210,CUS-2026-000095,6,no_alert,Claimant has 4 claims; repeat claims alone are not proof
+CLM-2026-000213,CUS-2026-000084,6,no_alert,Claimant has 4 claims; repeat claims alone are not proof
+CLM-2026-000214,CUS-2026-000040,6,no_alert,Claimant has 4 claims; repeat claims alone are not proof
+CLM-2026-000216,CUS-2026-000106,6,no_alert,Claimant has 4 claims; repeat claims alone are not proof
+CLM-2026-000221,CUS-2026-000040,6,no_alert,Claimant has 4 claims; repeat claims alone are not proof
+CLM-2026-000223,CUS-2026-000087,6,no_alert,Claimant has 4 claims; repeat claims alone are not proof
+CLM-2026-000226,CUS-2026-000073,6,no_alert,Claimant has 4 claims; repeat claims alone are not proof
+CLM-2026-000227,CUS-2026-000069,6,no_alert,Claimant has 4 claims; repeat claims alone are not proof
+CLM-2026-000228,CUS-2026-000073,6,no_alert,Claimant has 4 claims; repeat claims alone are not proof
+CLM-2026-000242,CUS-2026-000051,6,no_alert,Claimant has 4 claims; repeat claims alone are not proof
+CLM-2026-000249,CUS-2026-000036,6,no_alert,Claimant has 4 claims; repeat claims alone are not proof
+CLM-2026-000254,CUS-2026-000106,6,no_alert,Claimant has 4 claims; repeat claims alone are not proof
+CLM-2026-000261,CUS-2026-000084,6,no_alert,Claimant has 4 claims; repeat claims alone are not proof
+CLM-2026-000273,CUS-2026-000069,6,no_alert,Claimant has 4 claims; repeat claims alone are not proof
+CLM-2026-000275,CUS-2026-000019,6,no_alert,Claimant has 4 claims; repeat claims alone are not proof
+CLM-2026-000285,CUS-2026-000069,6,no_alert,Claimant has 4 claims; repeat claims alone are not proof
+CLM-2026-000286,CUS-2026-000115,6,no_alert,Claimant has 4 claims; repeat claims alone are not proof
+CLM-2026-000011,CUS-2026-000043,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000013,CUS-2026-000099,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000021,CUS-2026-000076,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000022,CUS-2026-000117,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000027,CUS-2026-000028,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000030,CUS-2026-000013,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000034,CUS-2026-000066,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000040,CUS-2026-000077,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000043,CUS-2026-000049,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000044,CUS-2026-000022,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000050,CUS-2026-000028,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000052,CUS-2026-000101,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000054,CUS-2026-000063,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000055,CUS-2026-000052,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000056,CUS-2026-000099,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000057,CUS-2026-000088,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000059,CUS-2026-000041,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000062,CUS-2026-000052,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000066,CUS-2026-000052,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000067,CUS-2026-000018,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000070,CUS-2026-000088,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000073,CUS-2026-000049,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000075,CUS-2026-000063,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000076,CUS-2026-000102,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000077,CUS-2026-000041,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000082,CUS-2026-000045,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000085,CUS-2026-000042,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000089,CUS-2026-000032,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000090,CUS-2026-000080,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000093,CUS-2026-000022,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000096,CUS-2026-000066,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000104,CUS-2026-000038,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000107,CUS-2026-000063,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000117,CUS-2026-000013,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000122,CUS-2026-000111,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000127,CUS-2026-000079,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000131,CUS-2026-000029,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000132,CUS-2026-000041,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000136,CUS-2026-000043,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000137,CUS-2026-000092,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000138,CUS-2026-000060,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000141,CUS-2026-000102,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000143,CUS-2026-000113,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000147,CUS-2026-000066,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000148,CUS-2026-000028,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000149,CUS-2026-000105,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000150,CUS-2026-000018,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000151,CUS-2026-000114,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000153,CUS-2026-000020,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000158,CUS-2026-000013,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000159,CUS-2026-000042,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000167,CUS-2026-000071,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000169,CUS-2026-000076,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000173,CUS-2026-000060,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000175,CUS-2026-000043,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000186,CUS-2026-000083,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000187,CUS-2026-000080,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000190,CUS-2026-000032,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000192,CUS-2026-000105,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000194,CUS-2026-000092,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000196,CUS-2026-000020,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000198,CUS-2026-000079,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000199,CUS-2026-000045,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000200,CUS-2026-000113,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000202,CUS-2026-000080,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000204,CUS-2026-000029,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000205,CUS-2026-000101,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000209,CUS-2026-000018,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000211,CUS-2026-000022,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000212,CUS-2026-000079,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000217,CUS-2026-000032,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000220,CUS-2026-000105,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000222,CUS-2026-000111,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000224,CUS-2026-000083,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000230,CUS-2026-000117,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000234,CUS-2026-000042,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000240,CUS-2026-000083,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000245,CUS-2026-000045,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000248,CUS-2026-000038,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000251,CUS-2026-000113,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000252,CUS-2026-000102,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000253,CUS-2026-000101,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000259,CUS-2026-000071,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000260,CUS-2026-000099,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000265,CUS-2026-000088,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000268,CUS-2026-000077,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000271,CUS-2026-000076,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000272,CUS-2026-000060,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000277,CUS-2026-000038,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000278,CUS-2026-000111,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000280,CUS-2026-000077,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000282,CUS-2026-000071,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000283,CUS-2026-000114,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000284,CUS-2026-000114,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000287,CUS-2026-000020,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000288,CUS-2026-000092,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000289,CUS-2026-000029,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000291,CUS-2026-000049,4,no_alert,Claimant has 3 claims; repeat claims alone are not proof
+CLM-2026-000012,CUS-2026-000103,2,no_alert,Claimant has 2 claims; repeat claims alone are not proof
+CLM-2026-000014,CUS-2026-000011,2,no_alert,Claimant has 2 claims; repeat claims alone are not proof
+CLM-2026-000036,CUS-2026-000006,2,no_alert,Claimant has 2 claims; repeat claims alone are not proof
+CLM-2026-000037,CUS-2026-000048,2,no_alert,Claimant has 2 claims; repeat claims alone are not proof
+CLM-2026-000047,CUS-2026-000044,2,no_alert,Claimant has 2 claims; repeat claims alone are not proof
+CLM-2026-000063,CUS-2026-000023,2,no_alert,Claimant has 2 claims; repeat claims alone are not proof
+CLM-2026-000064,CUS-2026-000093,2,no_alert,Claimant has 2 claims; repeat claims alone are not proof
+CLM-2026-000068,CUS-2026-000100,2,no_alert,Claimant has 2 claims; repeat claims alone are not proof
+CLM-2026-000078,CUS-2026-000024,2,no_alert,Claimant has 2 claims; repeat claims alone are not proof
+CLM-2026-000086,CUS-2026-000103,2,no_alert,Claimant has 2 claims; repeat claims alone are not proof
+CLM-2026-000087,CUS-2026-000023,2,no_alert,Claimant has 2 claims; repeat claims alone are not proof
+CLM-2026-000094,CUS-2026-000120,2,no_alert,Claimant has 2 claims; repeat claims alone are not proof
+CLM-2026-000095,CUS-2026-000065,2,no_alert,Claimant has 2 claims; repeat claims alone are not proof
+CLM-2026-000103,CUS-2026-000031,2,no_alert,Claimant has 2 claims; repeat claims alone are not proof
+CLM-2026-000105,CUS-2026-000035,2,no_alert,Claimant has 2 claims; repeat claims alone are not proof
+CLM-2026-000133,CUS-2026-000030,2,no_alert,Claimant has 2 claims; repeat claims alone are not proof
+CLM-2026-000134,CUS-2026-000007,2,no_alert,Claimant has 2 claims; repeat claims alone are not proof
+CLM-2026-000142,CUS-2026-000107,2,no_alert,Claimant has 2 claims; repeat claims alone are not proof
+CLM-2026-000146,CUS-2026-000011,2,no_alert,Claimant has 2 claims; repeat claims alone are not proof
+CLM-2026-000155,CUS-2026-000093,2,no_alert,Claimant has 2 claims; repeat claims alone are not proof
+CLM-2026-000156,CUS-2026-000007,2,no_alert,Claimant has 2 claims; repeat claims alone are not proof
+CLM-2026-000166,CUS-2026-000035,2,no_alert,Claimant has 2 claims; repeat claims alone are not proof
+CLM-2026-000168,CUS-2026-000116,2,no_alert,Claimant has 2 claims; repeat claims alone are not proof
+CLM-2026-000184,CUS-2026-000065,2,no_alert,Claimant has 2 claims; repeat claims alone are not proof
+CLM-2026-000201,CUS-2026-000085,2,no_alert,Claimant has 2 claims; repeat claims alone are not proof
+CLM-2026-000206,CUS-2026-000081,2,no_alert,Claimant has 2 claims; repeat claims alone are not proof
+CLM-2026-000229,CUS-2026-000044,2,no_alert,Claimant has 2 claims; repeat claims alone are not proof
+CLM-2026-000231,CUS-2026-000037,2,no_alert,Claimant has 2 claims; repeat claims alone are not proof
+CLM-2026-000236,CUS-2026-000100,2,no_alert,Claimant has 2 claims; repeat claims alone are not proof
+CLM-2026-000237,CUS-2026-000081,2,no_alert,Claimant has 2 claims; repeat claims alone are not proof
+CLM-2026-000238,CUS-2026-000031,2,no_alert,Claimant has 2 claims; repeat claims alone are not proof
+CLM-2026-000239,CUS-2026-000107,2,no_alert,Claimant has 2 claims; repeat claims alone are not proof
+CLM-2026-000241,CUS-2026-000116,2,no_alert,Claimant has 2 claims; repeat claims alone are not proof
+CLM-2026-000247,CUS-2026-000048,2,no_alert,Claimant has 2 claims; repeat claims alone are not proof
+CLM-2026-000250,CUS-2026-000061,2,no_alert,Claimant has 2 claims; repeat claims alone are not proof
+CLM-2026-000256,CUS-2026-000006,2,no_alert,Claimant has 2 claims; repeat claims alone are not proof
+CLM-2026-000262,CUS-2026-000005,2,no_alert,Claimant has 2 claims; repeat claims alone are not proof
+CLM-2026-000264,CUS-2026-000030,2,no_alert,Claimant has 2 claims; repeat claims alone are not proof
+CLM-2026-000266,CUS-2026-000061,2,no_alert,Claimant has 2 claims; repeat claims alone are not proof
+CLM-2026-000270,CUS-2026-000005,2,no_alert,Claimant has 2 claims; repeat claims alone are not proof
+CLM-2026-000274,CUS-2026-000120,2,no_alert,Claimant has 2 claims; repeat claims alone are not proof
+CLM-2026-000290,CUS-2026-000024,2,no_alert,Claimant has 2 claims; repeat claims alone are not proof
+CLM-2026-000293,CUS-2026-000025,2,no_alert,Claimant has 2 claims; repeat claims alone are not proof
+CLM-2026-000009,CUS-2026-000015,0,no_alert,
+CLM-2026-000024,CUS-2026-000089,0,no_alert,
+CLM-2026-000035,CUS-2026-000109,0,no_alert,
+CLM-2026-000045,CUS-2026-000104,0,no_alert,
+CLM-2026-000046,CUS-2026-000057,0,no_alert,
+CLM-2026-000051,CUS-2026-000003,0,no_alert,
+CLM-2026-000061,CUS-2026-000068,0,no_alert,
+CLM-2026-000074,CUS-2026-000062,0,no_alert,
+CLM-2026-000080,CUS-2026-000014,0,no_alert,
+CLM-2026-000088,CUS-2026-000112,0,no_alert,
+CLM-2026-000102,CUS-2026-000017,0,no_alert,
+CLM-2026-000113,CUS-2026-000033,0,no_alert,
+CLM-2026-000124,CUS-2026-000072,0,no_alert,
+CLM-2026-000130,CUS-2026-000110,0,no_alert,
+CLM-2026-000162,CUS-2026-000016,0,no_alert,
+CLM-2026-000163,CUS-2026-000086,0,no_alert,
+CLM-2026-000170,CUS-2026-000078,0,no_alert,
+CLM-2026-000174,CUS-2026-000059,0,no_alert,
+CLM-2026-000180,CUS-2026-000050,0,no_alert,
+CLM-2026-000191,CUS-2026-000053,0,no_alert,
+CLM-2026-000195,CUS-2026-000067,0,no_alert,
+CLM-2026-000215,CUS-2026-000055,0,no_alert,
+CLM-2026-000219,CUS-2026-000094,0,no_alert,
+CLM-2026-000232,CUS-2026-000012,0,no_alert,
+CLM-2026-000255,CUS-2026-000004,0,no_alert,
+CLM-2026-000269,CUS-2026-000098,0,no_alert,
+CLM-2026-000276,CUS-2026-000064,0,no_alert,
+CLM-2026-000295,CUS-2026-000108,0,no_alert,
+CLM-2026-000299,CUS-2026-000070,0,no_alert,

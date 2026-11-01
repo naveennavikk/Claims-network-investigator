@@ -1,0 +1,17 @@
+{
+  "name": "yottaflex-claims-network-investigator",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Deterministic synthetic insurance claims network investigation pipeline",
+  "type": "commonjs",
+  "scripts": {
+    "generate": "node src/cli.js generate --scale full",
+    "start": "node server.js",
+    "generate:starter": "node src/cli.js generate --scale starter",
+    "validate": "node src/cli.js validate",
+    "evaluate": "node src/cli.js evaluate",
+    "reproduce": "node scripts/reproducibility.js",
+    "test": "node --test"
+  },
+  "engines": { "node": ">=18" }
+}

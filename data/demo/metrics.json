@@ -1,0 +1,12 @@
+{
+  "positive_labels": 14,
+  "true_positive": 14,
+  "false_positive": 1,
+  "false_negative": 0,
+  "true_negative": 285,
+  "precision": 0.9333333333333333,
+  "recall": 1,
+  "false_positive_rate": 0.0034965034965034965,
+  "false_negative_rate": 0,
+  "scope": "claim-level proxy labels; shared-contact heuristics do not establish fraud"
+}

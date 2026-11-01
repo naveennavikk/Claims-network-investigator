@@ -1,0 +1,1479 @@
+[
+  {
+    "subject_type": "claimant",
+    "subject_id": "CUS-2026-000001",
+    "label": "unrepresented_relationship",
+    "reason": "Shared synthetic contact intentionally omitted from edge table",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000001",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000002",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000003",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000004",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000005",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000006",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000007",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000008",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000009",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000010",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000011",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000012",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000013",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000014",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000015",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000016",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000017",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000018",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000019",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000020",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000021",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000022",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000023",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000024",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000025",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000026",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000027",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000028",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000029",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000030",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000031",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000032",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000033",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000034",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000035",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000036",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000037",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000038",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000039",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000040",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000041",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000042",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000043",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000044",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000045",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000046",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000047",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000048",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000049",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000050",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000051",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000052",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000053",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000054",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000055",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000056",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000057",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000058",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000059",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000060",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000061",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000062",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000063",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000064",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000065",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000066",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000067",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000068",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000069",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000070",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000071",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000072",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000073",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000074",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000075",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000076",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000077",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000078",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000079",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000080",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000081",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000082",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000083",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000084",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000085",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000086",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000087",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000088",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000089",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000090",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000091",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000092",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000093",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000094",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000095",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000096",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000097",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000098",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000099",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000100",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000185",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000186",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000237",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000252",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000315",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000342",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000359",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000378",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000463",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000579",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000632",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000645",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000755",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000782",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000805",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000810",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000845",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000861",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000862",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000877",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000890",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000927",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000932",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-000949",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-001021",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-001035",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-001091",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-001201",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-001255",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-001307",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-001326",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-001354",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-001599",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-001671",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-001762",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-001822",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-001864",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-001889",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-001914",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-001957",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-001967",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-002006",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-002037",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-002050",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-002103",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-002261",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-002276",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-002281",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-002291",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-002303",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-002318",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-002354",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-002378",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-002398",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-002580",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-002704",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-002706",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-002807",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-002827",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-002838",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-002881",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-002933",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-002973",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-002988",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-003009",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-003063",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-003080",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-003110",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-003144",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-003147",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-003320",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-003341",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-003369",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-003376",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-003380",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-003481",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-003568",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-003575",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-003584",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-003672",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-003760",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-003795",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-004066",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-004089",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-004186",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-004252",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-004280",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-004338",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-004346",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-004387",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-004420",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-004618",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-004619",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-004639",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-004660",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-004779",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-004785",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-004807",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-004822",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-004854",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-004855",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-004885",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-004942",
+    "label": "planted_network",
+    "reason": "Claim belongs to a controlled shared-contact cluster",
+    "expected_decision": "investigate"
+  },
+  {
+    "subject_type": "claimant",
+    "subject_id": "CUS-2026-000041",
+    "label": "benign_shared_address",
+    "reason": "Shares a common household address; address alone is not evidence of wrongdoing",
+    "expected_decision": "no_alert"
+  },
+  {
+    "subject_type": "claimant",
+    "subject_id": "CUS-2026-000042",
+    "label": "benign_shared_address",
+    "reason": "Shares a common household address; address alone is not evidence of wrongdoing",
+    "expected_decision": "no_alert"
+  },
+  {
+    "subject_type": "incident",
+    "subject_id": "INC-2026-000002",
+    "label": "benign_repeat_narrative",
+    "reason": "Benign repeat narrative included to test false positives",
+    "expected_decision": "review_context"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-004996",
+    "label": "invalid_policy_reference",
+    "reason": "Claim references nonexistent policy; exception row retained for validation coverage",
+    "expected_decision": "exception"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-004998",
+    "label": "payment_exceeds_approved",
+    "reason": "Payment amount exceeds source approved amount",
+    "expected_decision": "exception"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-004997",
+    "label": "duplicate_invoice_across_claimants",
+    "reason": "Invoice ID deliberately reused across unrelated claimant claims",
+    "expected_decision": "exception"
+  },
+  {
+    "subject_type": "claim",
+    "subject_id": "CLM-2026-005000",
+    "label": "unusual_reporting_delay",
+    "reason": "Incident reported 90 days after occurrence",
+    "expected_decision": "investigate"
+  }
+]

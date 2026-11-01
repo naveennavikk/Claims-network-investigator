@@ -1,0 +1,301 @@
+incident_id,incident_type,occurred_at,reported_at,location,narrative
+INC-2026-000001,injury,2026-06-24,2026-07-12,District 29,Pipe failure caused kitchen flooding
+INC-2026-000002,fire,2025-01-31,2025-02-16,District 19,Pipe failure caused kitchen flooding
+INC-2026-000003,injury,2025-05-15,2025-06-04,District 37,Side impact while changing lanes
+INC-2026-000004,hail,2027-02-28,2027-02-28,District 35,Rear impact at intersection during commute
+INC-2026-000005,hail,2026-04-05,2026-04-05,District 22,Pipe failure caused kitchen flooding
+INC-2026-000006,collision,2026-02-07,2026-02-15,District 20,Hail damage noted across roof and hood
+INC-2026-000007,hail,2027-03-30,2027-04-06,District 31,Hail damage noted across roof and hood
+INC-2026-000008,collision,2026-06-15,2026-06-16,District 29,Side impact while changing lanes
+INC-2026-000009,fire,2027-03-30,2027-04-15,District 30,Vehicle missing from shared parking area
+INC-2026-000010,water_damage,2026-09-27,2026-10-09,District 1,Small appliance fire in utility room
+INC-2026-000011,fire,2027-05-03,2027-05-17,District 8,Water leak discovered after heavy rain
+INC-2026-000012,water_damage,2026-05-28,2026-06-03,District 21,Vehicle window broken overnight
+INC-2026-000013,water_damage,2025-11-03,2025-11-11,District 36,Side impact while changing lanes
+INC-2026-000014,theft,2025-09-18,2025-10-05,District 21,Hail damage noted across roof and hood
+INC-2026-000015,theft,2026-10-24,2026-11-11,District 35,Small appliance fire in utility room
+INC-2026-000016,collision,2026-06-17,2026-06-20,District 9,Side impact while changing lanes
+INC-2026-000017,fire,2025-11-04,2025-11-17,District 28,Smoke damage reported after electrical fault
+INC-2026-000018,injury,2027-01-27,2027-02-08,District 19,Vehicle missing from shared parking area
+INC-2026-000019,theft,2026-01-16,2026-01-27,District 20,Vehicle window broken overnight
+INC-2026-000020,fire,2026-08-21,2026-09-02,District 12,Small appliance fire in utility room
+INC-2026-000021,collision,2026-02-02,2026-02-16,District 40,Pipe failure caused kitchen flooding
+INC-2026-000022,injury,2025-09-02,2025-09-07,District 38,Smoke damage reported after electrical fault
+INC-2026-000023,injury,2025-06-26,2025-07-02,District 12,Water leak discovered after heavy rain
+INC-2026-000024,theft,2025-04-24,2025-04-29,District 21,Vehicle missing from shared parking area
+INC-2026-000025,collision,2025-08-08,2025-08-09,District 9,Water leak discovered after heavy rain
+INC-2026-000026,water_damage,2026-10-21,2026-10-21,District 31,Vehicle missing from shared parking area
+INC-2026-000027,collision,2026-07-01,2026-07-19,District 28,Pipe failure caused kitchen flooding
+INC-2026-000028,fire,2025-09-30,2025-10-10,District 13,Slip injury reported at retail entrance
+INC-2026-000029,water_damage,2027-01-11,2027-01-26,District 2,Vehicle window broken overnight
+INC-2026-000030,fire,2025-11-19,2025-12-07,District 26,Pipe failure caused kitchen flooding
+INC-2026-000031,water_damage,2026-08-11,2026-08-18,District 1,Rear impact at intersection during commute
+INC-2026-000032,collision,2025-10-26,2025-10-27,District 40,Vehicle missing from shared parking area
+INC-2026-000033,water_damage,2027-02-26,2027-03-10,District 29,Hail damage noted across roof and hood
+INC-2026-000034,water_damage,2026-07-20,2026-07-20,District 12,Vehicle missing from shared parking area
+INC-2026-000035,theft,2025-12-19,2025-12-20,District 17,Rear impact at intersection during commute
+INC-2026-000036,injury,2026-04-04,2026-04-20,District 35,Side impact while changing lanes
+INC-2026-000037,water_damage,2027-03-16,2027-03-27,District 28,Smoke damage reported after electrical fault
+INC-2026-000038,fire,2026-09-21,2026-10-09,District 17,Pipe failure caused kitchen flooding
+INC-2026-000039,collision,2026-03-08,2026-03-27,District 4,Hail damage noted across roof and hood
+INC-2026-000040,water_damage,2025-09-24,2025-10-14,District 22,Side impact while changing lanes
+INC-2026-000041,water_damage,2026-05-18,2026-05-28,District 25,Small appliance fire in utility room
+INC-2026-000042,injury,2025-09-15,2025-09-23,District 11,Rear impact at intersection during commute
+INC-2026-000043,hail,2025-01-21,2025-02-06,District 19,Hail damage noted across roof and hood
+INC-2026-000044,theft,2027-04-22,2027-04-23,District 32,Water leak discovered after heavy rain
+INC-2026-000045,collision,2025-04-17,2025-04-27,District 13,Vehicle missing from shared parking area
+INC-2026-000046,water_damage,2026-06-08,2026-06-19,District 31,Hail damage noted across roof and hood
+INC-2026-000047,fire,2025-10-22,2025-11-06,District 32,Side impact while changing lanes
+INC-2026-000048,fire,2025-10-16,2025-10-29,District 29,Water leak discovered after heavy rain
+INC-2026-000049,injury,2025-09-17,2025-10-02,District 6,Hail damage noted across roof and hood
+INC-2026-000050,hail,2026-11-20,2026-12-09,District 30,Vehicle window broken overnight
+INC-2026-000051,theft,2026-11-10,2026-11-13,District 32,Side impact while changing lanes
+INC-2026-000052,theft,2025-10-26,2025-10-27,District 3,Vehicle window broken overnight
+INC-2026-000053,hail,2025-06-23,2025-06-28,District 38,Rear impact at intersection during commute
+INC-2026-000054,injury,2026-08-08,2026-08-20,District 22,Hail damage noted across roof and hood
+INC-2026-000055,theft,2026-07-03,2026-07-23,District 33,Pipe failure caused kitchen flooding
+INC-2026-000056,theft,2025-03-28,2025-04-02,District 2,Slip injury reported at retail entrance
+INC-2026-000057,injury,2025-02-24,2025-03-07,District 3,Pipe failure caused kitchen flooding
+INC-2026-000058,injury,2026-09-04,2026-09-17,District 8,Hail damage noted across roof and hood
+INC-2026-000059,water_damage,2026-08-12,2026-08-13,District 30,Vehicle missing from shared parking area
+INC-2026-000060,theft,2026-11-15,2026-11-19,District 6,Side impact while changing lanes
+INC-2026-000061,collision,2027-04-15,2027-04-20,District 8,Slip injury reported at retail entrance
+INC-2026-000062,fire,2026-04-01,2026-04-14,District 39,Side impact while changing lanes
+INC-2026-000063,theft,2025-01-21,2025-02-09,District 39,Vehicle window broken overnight
+INC-2026-000064,hail,2026-07-17,2026-08-01,District 10,Smoke damage reported after electrical fault
+INC-2026-000065,injury,2026-08-16,2026-09-01,District 12,Slip injury reported at retail entrance
+INC-2026-000066,theft,2026-05-25,2026-06-11,District 27,Vehicle window broken overnight
+INC-2026-000067,fire,2025-08-20,2025-08-22,District 22,Rear impact at intersection during commute
+INC-2026-000068,theft,2027-02-03,2027-02-06,District 28,Hail damage noted across roof and hood
+INC-2026-000069,fire,2026-06-20,2026-06-29,District 38,Pipe failure caused kitchen flooding
+INC-2026-000070,fire,2026-05-18,2026-05-30,District 16,Vehicle missing from shared parking area
+INC-2026-000071,theft,2027-06-11,2027-06-14,District 3,Water leak discovered after heavy rain
+INC-2026-000072,water_damage,2025-03-05,2025-03-19,District 27,Vehicle window broken overnight
+INC-2026-000073,collision,2025-04-13,2025-04-27,District 2,Hail damage noted across roof and hood
+INC-2026-000074,injury,2026-10-07,2026-10-08,District 18,Slip injury reported at retail entrance
+INC-2026-000075,hail,2026-02-09,2026-02-19,District 7,Smoke damage reported after electrical fault
+INC-2026-000076,fire,2026-07-05,2026-07-12,District 8,Slip injury reported at retail entrance
+INC-2026-000077,fire,2026-10-26,2026-10-30,District 33,Smoke damage reported after electrical fault
+INC-2026-000078,water_damage,2025-08-06,2025-08-11,District 20,Hail damage noted across roof and hood
+INC-2026-000079,water_damage,2026-03-10,2026-03-10,District 9,Smoke damage reported after electrical fault
+INC-2026-000080,water_damage,2025-07-02,2025-07-07,District 28,Vehicle window broken overnight
+INC-2026-000081,hail,2026-04-04,2026-04-05,District 3,Smoke damage reported after electrical fault
+INC-2026-000082,injury,2025-09-19,2025-09-29,District 14,Vehicle window broken overnight
+INC-2026-000083,theft,2026-01-05,2026-01-23,District 19,Side impact while changing lanes
+INC-2026-000084,collision,2025-07-12,2025-08-01,District 27,Vehicle missing from shared parking area
+INC-2026-000085,injury,2026-11-21,2026-11-25,District 19,Hail damage noted across roof and hood
+INC-2026-000086,theft,2026-03-01,2026-03-13,District 40,Vehicle missing from shared parking area
+INC-2026-000087,theft,2026-02-19,2026-03-09,District 17,Side impact while changing lanes
+INC-2026-000088,water_damage,2027-03-29,2027-04-09,District 9,Slip injury reported at retail entrance
+INC-2026-000089,hail,2026-08-03,2026-08-10,District 27,Small appliance fire in utility room
+INC-2026-000090,hail,2026-08-17,2026-09-04,District 20,Smoke damage reported after electrical fault
+INC-2026-000091,hail,2026-04-12,2026-04-18,District 28,Hail damage noted across roof and hood
+INC-2026-000092,water_damage,2026-03-31,2026-04-02,District 16,Vehicle window broken overnight
+INC-2026-000093,hail,2027-04-23,2027-04-26,District 28,Water leak discovered after heavy rain
+INC-2026-000094,water_damage,2026-04-17,2026-04-19,District 5,Vehicle missing from shared parking area
+INC-2026-000095,fire,2026-12-14,2027-01-01,District 14,Side impact while changing lanes
+INC-2026-000096,collision,2025-12-16,2025-12-20,District 11,Hail damage noted across roof and hood
+INC-2026-000097,injury,2027-06-17,2027-06-18,District 15,Small appliance fire in utility room
+INC-2026-000098,injury,2025-07-25,2025-08-01,District 31,Smoke damage reported after electrical fault
+INC-2026-000099,fire,2026-01-04,2026-01-15,District 11,Hail damage noted across roof and hood
+INC-2026-000100,collision,2026-02-01,2026-02-13,District 32,Vehicle missing from shared parking area
+INC-2026-000101,theft,2027-05-31,2027-06-02,District 15,Vehicle missing from shared parking area
+INC-2026-000102,water_damage,2025-04-13,2025-04-21,District 19,Hail damage noted across roof and hood
+INC-2026-000103,hail,2025-01-21,2025-01-26,District 23,Hail damage noted across roof and hood
+INC-2026-000104,hail,2025-03-09,2025-03-21,District 20,Vehicle window broken overnight
+INC-2026-000105,water_damage,2026-02-02,2026-02-18,District 23,Vehicle missing from shared parking area
+INC-2026-000106,theft,2025-11-10,2025-11-10,District 27,Slip injury reported at retail entrance
+INC-2026-000107,water_damage,2025-02-16,2025-03-01,District 33,Vehicle window broken overnight
+INC-2026-000108,hail,2025-06-16,2025-06-24,District 16,Vehicle window broken overnight
+INC-2026-000109,fire,2025-08-28,2025-09-01,District 7,Vehicle missing from shared parking area
+INC-2026-000110,hail,2027-01-02,2027-01-10,District 19,Side impact while changing lanes
+INC-2026-000111,fire,2025-05-20,2025-05-26,District 7,Smoke damage reported after electrical fault
+INC-2026-000112,theft,2026-05-07,2026-05-23,District 2,Water leak discovered after heavy rain
+INC-2026-000113,injury,2025-11-06,2025-11-20,District 33,Vehicle missing from shared parking area
+INC-2026-000114,injury,2026-11-13,2026-11-20,District 38,Side impact while changing lanes
+INC-2026-000115,hail,2027-02-16,2027-03-01,District 26,Pipe failure caused kitchen flooding
+INC-2026-000116,water_damage,2025-04-20,2025-04-30,District 26,Side impact while changing lanes
+INC-2026-000117,injury,2026-03-08,2026-03-28,District 7,Vehicle missing from shared parking area
+INC-2026-000118,water_damage,2027-03-25,2027-04-02,District 20,Side impact while changing lanes
+INC-2026-000119,hail,2026-09-25,2026-10-07,District 15,Vehicle missing from shared parking area
+INC-2026-000120,hail,2025-06-26,2025-07-04,District 5,Rear impact at intersection during commute
+INC-2026-000121,injury,2026-01-10,2026-01-26,District 8,Vehicle window broken overnight
+INC-2026-000122,water_damage,2025-07-22,2025-08-01,District 22,Small appliance fire in utility room
+INC-2026-000123,theft,2025-02-17,2025-02-26,District 20,Smoke damage reported after electrical fault
+INC-2026-000124,hail,2026-08-13,2026-08-24,District 2,Water leak discovered after heavy rain
+INC-2026-000125,collision,2025-01-23,2025-02-03,District 4,Smoke damage reported after electrical fault
+INC-2026-000126,theft,2025-11-03,2025-11-05,District 13,Slip injury reported at retail entrance
+INC-2026-000127,water_damage,2026-08-02,2026-08-08,District 31,Side impact while changing lanes
+INC-2026-000128,collision,2026-06-06,2026-06-14,District 35,Slip injury reported at retail entrance
+INC-2026-000129,injury,2027-06-11,2027-06-23,District 8,Pipe failure caused kitchen flooding
+INC-2026-000130,fire,2026-02-04,2026-02-09,District 12,Rear impact at intersection during commute
+INC-2026-000131,injury,2026-08-31,2026-09-08,District 17,Smoke damage reported after electrical fault
+INC-2026-000132,hail,2027-02-05,2027-02-16,District 11,Rear impact at intersection during commute
+INC-2026-000133,hail,2026-10-25,2026-11-08,District 24,Pipe failure caused kitchen flooding
+INC-2026-000134,water_damage,2025-05-08,2025-05-11,District 19,Slip injury reported at retail entrance
+INC-2026-000135,injury,2026-01-23,2026-02-04,District 32,Vehicle window broken overnight
+INC-2026-000136,collision,2026-12-18,2026-12-24,District 11,Vehicle window broken overnight
+INC-2026-000137,theft,2027-05-07,2027-05-16,District 23,Vehicle missing from shared parking area
+INC-2026-000138,theft,2026-01-20,2026-02-09,District 5,Vehicle missing from shared parking area
+INC-2026-000139,hail,2025-07-16,2025-07-22,District 13,Side impact while changing lanes
+INC-2026-000140,theft,2026-12-30,2027-01-03,District 7,Smoke damage reported after electrical fault
+INC-2026-000141,injury,2026-02-15,2026-02-23,District 10,Slip injury reported at retail entrance
+INC-2026-000142,water_damage,2025-04-21,2025-05-06,District 34,Slip injury reported at retail entrance
+INC-2026-000143,theft,2025-05-23,2025-06-05,District 16,Water leak discovered after heavy rain
+INC-2026-000144,injury,2026-04-02,2026-04-19,District 2,Pipe failure caused kitchen flooding
+INC-2026-000145,collision,2025-04-21,2025-04-28,District 2,Small appliance fire in utility room
+INC-2026-000146,collision,2025-01-28,2025-02-02,District 31,Water leak discovered after heavy rain
+INC-2026-000147,hail,2026-12-03,2026-12-07,District 18,Small appliance fire in utility room
+INC-2026-000148,fire,2027-04-10,2027-04-11,District 5,Water leak discovered after heavy rain
+INC-2026-000149,injury,2027-01-31,2027-01-31,District 10,Rear impact at intersection during commute
+INC-2026-000150,injury,2027-02-15,2027-03-06,District 40,Pipe failure caused kitchen flooding
+INC-2026-000151,hail,2026-10-01,2026-10-14,District 6,Pipe failure caused kitchen flooding
+INC-2026-000152,injury,2026-12-30,2027-01-10,District 26,Vehicle missing from shared parking area
+INC-2026-000153,injury,2025-08-27,2025-09-01,District 28,Rear impact at intersection during commute
+INC-2026-000154,hail,2027-01-28,2027-02-05,District 10,Vehicle missing from shared parking area
+INC-2026-000155,fire,2026-10-05,2026-10-13,District 21,Vehicle window broken overnight
+INC-2026-000156,fire,2027-04-17,2027-04-29,District 11,Vehicle missing from shared parking area
+INC-2026-000157,water_damage,2025-03-10,2025-03-26,District 2,Small appliance fire in utility room
+INC-2026-000158,water_damage,2025-03-20,2025-04-05,District 2,Vehicle missing from shared parking area
+INC-2026-000159,hail,2025-03-19,2025-04-05,District 25,Rear impact at intersection during commute
+INC-2026-000160,water_damage,2025-01-27,2025-01-31,District 12,Slip injury reported at retail entrance
+INC-2026-000161,hail,2026-10-24,2026-10-26,District 11,Hail damage noted across roof and hood
+INC-2026-000162,hail,2026-04-18,2026-05-02,District 18,Vehicle missing from shared parking area
+INC-2026-000163,injury,2025-02-03,2025-02-16,District 34,Vehicle missing from shared parking area
+INC-2026-000164,theft,2026-12-01,2026-12-18,District 33,Vehicle missing from shared parking area
+INC-2026-000165,water_damage,2026-11-29,2026-12-05,District 37,Hail damage noted across roof and hood
+INC-2026-000166,collision,2025-05-12,2025-05-19,District 1,Vehicle window broken overnight
+INC-2026-000167,fire,2026-05-17,2026-05-24,District 2,Smoke damage reported after electrical fault
+INC-2026-000168,theft,2025-04-05,2025-04-07,District 5,Side impact while changing lanes
+INC-2026-000169,hail,2026-06-06,2026-06-16,District 10,Vehicle missing from shared parking area
+INC-2026-000170,hail,2025-06-23,2025-07-04,District 36,Small appliance fire in utility room
+INC-2026-000171,collision,2025-01-26,2025-02-15,District 3,Slip injury reported at retail entrance
+INC-2026-000172,fire,2025-09-17,2025-09-24,District 19,Slip injury reported at retail entrance
+INC-2026-000173,collision,2027-02-26,2027-03-02,District 1,Pipe failure caused kitchen flooding
+INC-2026-000174,theft,2025-04-12,2025-04-19,District 38,Vehicle missing from shared parking area
+INC-2026-000175,fire,2025-07-12,2025-07-26,District 15,Hail damage noted across roof and hood
+INC-2026-000176,fire,2025-02-21,2025-02-22,District 16,Smoke damage reported after electrical fault
+INC-2026-000177,theft,2025-06-25,2025-07-05,District 28,Rear impact at intersection during commute
+INC-2026-000178,hail,2025-11-01,2025-11-10,District 22,Vehicle missing from shared parking area
+INC-2026-000179,theft,2027-04-15,2027-04-16,District 38,Side impact while changing lanes
+INC-2026-000180,hail,2026-07-12,2026-07-18,District 37,Rear impact at intersection during commute
+INC-2026-000181,water_damage,2026-09-19,2026-10-01,District 19,Smoke damage reported after electrical fault
+INC-2026-000182,injury,2027-04-18,2027-05-06,District 11,Slip injury reported at retail entrance
+INC-2026-000183,theft,2025-08-04,2025-08-16,District 20,Pipe failure caused kitchen flooding
+INC-2026-000184,injury,2025-02-09,2025-02-11,District 27,Vehicle window broken overnight
+INC-2026-000185,theft,2026-06-27,2026-07-06,District 2,Small appliance fire in utility room
+INC-2026-000186,hail,2027-06-13,2027-06-25,District 19,Slip injury reported at retail entrance
+INC-2026-000187,hail,2026-08-27,2026-09-06,District 27,Small appliance fire in utility room
+INC-2026-000188,hail,2026-07-31,2026-08-19,District 13,Slip injury reported at retail entrance
+INC-2026-000189,hail,2026-12-09,2026-12-24,District 13,Side impact while changing lanes
+INC-2026-000190,collision,2025-03-23,2025-04-06,District 1,Smoke damage reported after electrical fault
+INC-2026-000191,hail,2026-03-31,2026-04-12,District 39,Hail damage noted across roof and hood
+INC-2026-000192,injury,2025-10-28,2025-11-06,District 6,Hail damage noted across roof and hood
+INC-2026-000193,collision,2025-11-01,2025-11-04,District 22,Vehicle window broken overnight
+INC-2026-000194,collision,2025-07-25,2025-08-05,District 39,Vehicle window broken overnight
+INC-2026-000195,hail,2026-05-13,2026-05-30,District 14,Rear impact at intersection during commute
+INC-2026-000196,water_damage,2027-05-14,2027-05-23,District 34,Vehicle window broken overnight
+INC-2026-000197,fire,2025-10-02,2025-10-22,District 5,Water leak discovered after heavy rain
+INC-2026-000198,hail,2025-10-17,2025-10-25,District 20,Slip injury reported at retail entrance
+INC-2026-000199,collision,2025-04-07,2025-04-27,District 36,Small appliance fire in utility room
+INC-2026-000200,fire,2025-04-07,2025-04-20,District 4,Hail damage noted across roof and hood
+INC-2026-000201,collision,2026-10-15,2026-11-02,District 26,Rear impact at intersection during commute
+INC-2026-000202,collision,2026-12-19,2026-12-31,District 7,Hail damage noted across roof and hood
+INC-2026-000203,water_damage,2025-05-31,2025-06-04,District 36,Vehicle window broken overnight
+INC-2026-000204,hail,2027-03-26,2027-03-30,District 18,Slip injury reported at retail entrance
+INC-2026-000205,injury,2027-02-10,2027-02-19,District 19,Smoke damage reported after electrical fault
+INC-2026-000206,water_damage,2027-05-19,2027-06-02,District 16,Vehicle missing from shared parking area
+INC-2026-000207,theft,2027-04-06,2027-04-18,District 9,Vehicle window broken overnight
+INC-2026-000208,collision,2027-05-10,2027-05-30,District 5,Pipe failure caused kitchen flooding
+INC-2026-000209,collision,2027-04-11,2027-04-12,District 4,Pipe failure caused kitchen flooding
+INC-2026-000210,water_damage,2026-01-26,2026-02-11,District 19,Smoke damage reported after electrical fault
+INC-2026-000211,injury,2025-08-13,2025-08-24,District 4,Pipe failure caused kitchen flooding
+INC-2026-000212,fire,2025-07-30,2025-07-31,District 20,Water leak discovered after heavy rain
+INC-2026-000213,water_damage,2025-04-08,2025-04-26,District 9,Small appliance fire in utility room
+INC-2026-000214,fire,2026-01-17,2026-02-03,District 32,Rear impact at intersection during commute
+INC-2026-000215,theft,2026-01-06,2026-01-06,District 10,Slip injury reported at retail entrance
+INC-2026-000216,theft,2026-01-06,2026-01-22,District 36,Smoke damage reported after electrical fault
+INC-2026-000217,water_damage,2025-12-17,2025-12-18,District 37,Small appliance fire in utility room
+INC-2026-000218,collision,2025-03-26,2025-03-28,District 8,Smoke damage reported after electrical fault
+INC-2026-000219,collision,2026-09-02,2026-09-06,District 9,Smoke damage reported after electrical fault
+INC-2026-000220,hail,2026-08-02,2026-08-02,District 24,Hail damage noted across roof and hood
+INC-2026-000221,collision,2026-08-01,2026-08-13,District 29,Smoke damage reported after electrical fault
+INC-2026-000222,theft,2027-03-01,2027-03-13,District 11,Smoke damage reported after electrical fault
+INC-2026-000223,injury,2025-08-03,2025-08-06,District 22,Vehicle missing from shared parking area
+INC-2026-000224,fire,2027-05-22,2027-06-10,District 19,Smoke damage reported after electrical fault
+INC-2026-000225,water_damage,2027-03-29,2027-04-15,District 8,Vehicle window broken overnight
+INC-2026-000226,injury,2026-10-21,2026-10-25,District 4,Smoke damage reported after electrical fault
+INC-2026-000227,injury,2026-03-29,2026-04-06,District 26,Water leak discovered after heavy rain
+INC-2026-000228,injury,2025-08-14,2025-08-26,District 14,Pipe failure caused kitchen flooding
+INC-2026-000229,water_damage,2026-11-09,2026-11-20,District 25,Vehicle missing from shared parking area
+INC-2026-000230,fire,2026-05-30,2026-06-10,District 39,Small appliance fire in utility room
+INC-2026-000231,water_damage,2025-05-11,2025-05-25,District 3,Small appliance fire in utility room
+INC-2026-000232,theft,2025-09-24,2025-10-13,District 3,Vehicle missing from shared parking area
+INC-2026-000233,fire,2025-11-16,2025-11-27,District 25,Vehicle window broken overnight
+INC-2026-000234,injury,2026-01-03,2026-01-21,District 7,Smoke damage reported after electrical fault
+INC-2026-000235,theft,2027-05-22,2027-06-10,District 4,Smoke damage reported after electrical fault
+INC-2026-000236,injury,2026-07-10,2026-07-27,District 12,Vehicle missing from shared parking area
+INC-2026-000237,hail,2026-03-14,2026-03-18,District 29,Pipe failure caused kitchen flooding
+INC-2026-000238,hail,2025-04-23,2025-05-02,District 4,Pipe failure caused kitchen flooding
+INC-2026-000239,injury,2026-12-20,2027-01-09,District 34,Smoke damage reported after electrical fault
+INC-2026-000240,hail,2027-02-28,2027-03-03,District 29,Vehicle window broken overnight
+INC-2026-000241,hail,2026-10-16,2026-11-02,District 34,Hail damage noted across roof and hood
+INC-2026-000242,water_damage,2026-03-23,2026-04-06,District 13,Pipe failure caused kitchen flooding
+INC-2026-000243,hail,2026-11-22,2026-12-05,District 37,Hail damage noted across roof and hood
+INC-2026-000244,hail,2027-02-15,2027-02-22,District 37,Hail damage noted across roof and hood
+INC-2026-000245,fire,2025-12-21,2026-01-10,District 17,Water leak discovered after heavy rain
+INC-2026-000246,injury,2025-10-20,2025-10-23,District 34,Rear impact at intersection during commute
+INC-2026-000247,fire,2026-11-24,2026-12-04,District 22,Vehicle missing from shared parking area
+INC-2026-000248,water_damage,2027-01-20,2027-02-01,District 38,Slip injury reported at retail entrance
+INC-2026-000249,fire,2025-03-03,2025-03-23,District 35,Small appliance fire in utility room
+INC-2026-000250,water_damage,2026-02-11,2026-02-13,District 14,Water leak discovered after heavy rain
+INC-2026-000251,fire,2025-05-22,2025-05-29,District 39,Pipe failure caused kitchen flooding
+INC-2026-000252,hail,2025-12-26,2025-12-26,District 27,Rear impact at intersection during commute
+INC-2026-000253,theft,2027-01-25,2027-01-25,District 5,Side impact while changing lanes
+INC-2026-000254,fire,2025-08-03,2025-08-17,District 2,Vehicle missing from shared parking area
+INC-2026-000255,fire,2026-02-13,2026-02-28,District 33,Smoke damage reported after electrical fault
+INC-2026-000256,collision,2025-08-18,2025-08-26,District 25,Vehicle missing from shared parking area
+INC-2026-000257,theft,2026-07-18,2026-08-04,District 31,Side impact while changing lanes
+INC-2026-000258,water_damage,2026-10-12,2026-10-24,District 23,Rear impact at intersection during commute
+INC-2026-000259,injury,2025-08-23,2025-09-04,District 18,Rear impact at intersection during commute
+INC-2026-000260,fire,2026-04-12,2026-04-23,District 39,Hail damage noted across roof and hood
+INC-2026-000261,collision,2027-02-24,2027-03-12,District 15,Side impact while changing lanes
+INC-2026-000262,theft,2026-04-05,2026-04-22,District 17,Water leak discovered after heavy rain
+INC-2026-000263,theft,2025-05-26,2025-06-13,District 22,Smoke damage reported after electrical fault
+INC-2026-000264,theft,2026-03-11,2026-03-22,District 36,Hail damage noted across roof and hood
+INC-2026-000265,water_damage,2027-03-22,2027-04-08,District 33,Vehicle window broken overnight
+INC-2026-000266,collision,2025-03-22,2025-03-29,District 2,Vehicle window broken overnight
+INC-2026-000267,theft,2026-02-14,2026-02-21,District 17,Water leak discovered after heavy rain
+INC-2026-000268,injury,2027-03-06,2027-03-25,District 15,Side impact while changing lanes
+INC-2026-000269,water_damage,2026-06-26,2026-06-28,District 39,Pipe failure caused kitchen flooding
+INC-2026-000270,collision,2025-04-28,2025-05-13,District 8,Small appliance fire in utility room
+INC-2026-000271,theft,2025-08-03,2025-08-03,District 32,Rear impact at intersection during commute
+INC-2026-000272,fire,2025-08-25,2025-08-26,District 40,Hail damage noted across roof and hood
+INC-2026-000273,injury,2027-06-01,2027-06-01,District 38,Side impact while changing lanes
+INC-2026-000274,hail,2025-05-30,2025-06-02,District 14,Vehicle missing from shared parking area
+INC-2026-000275,hail,2026-10-11,2026-10-14,District 14,Slip injury reported at retail entrance
+INC-2026-000276,collision,2026-10-26,2026-11-03,District 37,Vehicle missing from shared parking area
+INC-2026-000277,hail,2025-06-21,2025-07-09,District 24,Vehicle window broken overnight
+INC-2026-000278,hail,2025-11-07,2025-11-09,District 18,Slip injury reported at retail entrance
+INC-2026-000279,injury,2025-08-23,2025-09-04,District 28,Hail damage noted across roof and hood
+INC-2026-000280,theft,2026-05-05,2026-05-05,District 13,Rear impact at intersection during commute
+INC-2026-000281,fire,2026-06-13,2026-06-19,District 9,Pipe failure caused kitchen flooding
+INC-2026-000282,injury,2026-01-06,2026-01-22,District 35,Rear impact at intersection during commute
+INC-2026-000283,collision,2025-05-06,2025-05-06,District 5,Slip injury reported at retail entrance
+INC-2026-000284,water_damage,2027-04-05,2027-04-21,District 10,Smoke damage reported after electrical fault
+INC-2026-000285,injury,2025-12-10,2025-12-30,District 20,Hail damage noted across roof and hood
+INC-2026-000286,fire,2025-03-08,2025-03-18,District 36,Hail damage noted across roof and hood
+INC-2026-000287,collision,2025-08-20,2025-09-09,District 39,Hail damage noted across roof and hood
+INC-2026-000288,injury,2025-08-31,2025-09-12,District 18,Slip injury reported at retail entrance
+INC-2026-000289,water_damage,2026-07-20,2026-07-31,District 7,Small appliance fire in utility room
+INC-2026-000290,theft,2025-10-03,2025-10-08,District 28,Small appliance fire in utility room
+INC-2026-000291,injury,2025-11-04,2025-11-09,District 16,Rear impact at intersection during commute
+INC-2026-000292,water_damage,2026-11-27,2026-11-27,District 1,Side impact while changing lanes
+INC-2026-000293,fire,2026-08-09,2026-08-16,District 38,Side impact while changing lanes
+INC-2026-000294,hail,2026-01-29,2026-02-01,District 19,Vehicle missing from shared parking area
+INC-2026-000295,hail,2025-01-27,2025-02-15,District 19,Rear impact at intersection during commute
+INC-2026-000296,fire,2026-12-23,2027-01-03,District 11,Vehicle missing from shared parking area
+INC-2026-000297,fire,2025-12-08,2025-12-09,District 33,Small appliance fire in utility room
+INC-2026-000298,hail,2027-02-07,2027-02-27,District 2,Water leak discovered after heavy rain
+INC-2026-000299,theft,2025-07-13,2025-08-01,District 2,Slip injury reported at retail entrance
+INC-2026-000300,fire,2026-12-13,2027-03-13,District 38,Vehicle missing from shared parking area
